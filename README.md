@@ -20,9 +20,9 @@
 
 I am currently a Project Manager looking for opportunities in Web Development. 
 
-- 🔭 I graduated from the Full Stack Coding Boot Camp at UNC Chapel Hill
-- 🌱 I’m advancing my knowledge of HTML, CSS, JavaScript, MERN stack, and more
-- ⚡ In my free time, I listen to CodeNewbie podcasts and practice on W3Schools and freeCodeCamp
+- 🔭 I graduated from the Full Stack Coding Boot Camp at UNC Chapel Hill.
+- 🌱 I’m advancing my knowledge of HTML, CSS, JavaScript, MERN stack, and more.
+- ⚡ In my free time, I practice aerial arts, crochet, read, and bird watch. 
 
 ---
 
